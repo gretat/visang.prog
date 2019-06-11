@@ -15,3 +15,7 @@ Description: Contains functions and interactive shiny apps for easily calculatin
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    shiny,
+    shinythemes,
+    tibble

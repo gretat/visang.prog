@@ -19,3 +19,5 @@ Imports:
     shiny,
     shinythemes,
     tibble
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1

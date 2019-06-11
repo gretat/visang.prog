@@ -1,0 +1,36 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# visang
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+`visang` allows you to easily calculate visual angles.
+
+## Installation
+
+Install the development version of visang, with:
+
+```{r, eval=FALSE}
+# install.packages("devtools")
+devtools::install_github("gretat/visang.prog")
+```
+## Shiny App
+
+Run the shiny app with:
+
+```{r, eval=FALSE}
+visang::run_shiny()
+```

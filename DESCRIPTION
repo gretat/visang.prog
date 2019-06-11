@@ -1,0 +1,17 @@
+Package: visang
+Title: Calculate Visual Angles in R with Ease
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Greta",
+           family = "Todorova",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+      person(given = "Jack",
+            family = "Taylor",
+            role = c("aut"),
+            comment = c(ORCID = "0000-0003-4765-0118")))
+Description: Contains functions and interactive shiny apps for easily calculating visual angles, with a focus on use in Psycholgical science.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true

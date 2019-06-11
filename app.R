@@ -2,11 +2,12 @@
 
 library(shiny)
 library(tidyverse)
+library(shinythemes)
 
 #set up UI 
 
 ui<- fluidPage(
-  
+  theme = shinytheme('slate'),
   titlePanel('Visual angual calculations for your paradigm'),
   
   br(),

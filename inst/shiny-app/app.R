@@ -1,4 +1,3 @@
-#need to check the calculations
 
 library(shiny)
 library(tibble)
